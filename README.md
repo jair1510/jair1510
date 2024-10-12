@@ -1,4 +1,4 @@
-## ello! I'm Jair Aaron 👋
+## Hello! I'm Jair Aaron 👋
 
 <!--
 **jair1510/jair1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Backend Developer with experience in Laravel and Spring
+
+I specialize in building robust and scalable applications.
+
+**Skills:**
+- Laravel
+- Spring
+- MySQL
+- REST APIs
+
+---
